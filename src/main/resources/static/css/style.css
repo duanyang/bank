@@ -1,0 +1,90 @@
+table.homeMenu, table.userMenu{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+img.bank{
+	width: 50%;
+	height: 60%;
+	margin-left: 20%;
+}
+
+button.login{
+
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+}
+
+/* Add a hover effect for buttons */
+button.login:hover{
+    opacity: 0.8;
+}
+
+
+
+/* Add padding to containers */
+.container, table.savingDetail, table.checkingDetail {
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 25%;
+}
+
+table.accounts{
+	width: 50%;
+	margin-top: 5%;
+	margin-left: 50%;
+	padding: 10px;
+}
+
+table.transfer{
+	width: 70%;
+	margin-left: 40%;
+	margin-top: 5%;
+}
+
+table.savingTransaction, table.checkingTransaction{
+	width: 70%;
+	margin-top: 5%;
+	margin-left: 15%;
+}
+
+td.saving, tr.saving, td.transfer, tr.transfer{
+	padding: 10px;
+}
+
+table.pageCount, a.back, a.pdf{
+	margin-left: 50%;
+}
+
+table.contact, table.admin{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+table.location, table.locationList, table.faq, table.faqlist, table.faqanswer{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+table.addUser{
+	width: 50%;
+	margin-left: 50%;
+	margin-top: 15%;
+}
+
+table.userList{
+	width:50%;
+	margin-left: 25%;
+	text-align: center;
+	margin-top: 10%;
+}
+table.pageCount, table.addAccount{
+	margin-left: 50%;
+	margin-top: 2%;
+}
